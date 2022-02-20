@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimngn
 - 👀 I’m interested in full stack dev
 - 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on e commerce projects
+- 💞️ I’m making side projects and contribute to open source
 - 📫 How to reach me 
 
 <!---
